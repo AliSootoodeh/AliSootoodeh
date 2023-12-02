@@ -1,4 +1,4 @@
-# 💫 About Me:<br>
+# 💫 About Me: <br>
  <br>- 💻 I’m currently working on AI Startups and E-Commerce solutions;<br>- 🌱 I’m currently learning LLMs; <br>- 💬 Ask me about anything, I'd try my best to help;<br>- ⚡️ Fun-Fact: I love building new products, coffee, hot chocolate and almost everything with a dark theme!<br>- 📫 How to reach me: alisotudehdev@gmail.com;
 
 
